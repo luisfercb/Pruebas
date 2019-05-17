@@ -1,4 +1,5 @@
 var elColor = document.getElementById("esteColor");
+
 var elBoton = document.getElementById("boton");
 
 elBoton.addEventListener("click", funcionEscriba);
